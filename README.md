@@ -1,7 +1,4 @@
 ## Hi, I'm Sandra👋
-[![Linkedin Badge](https://img.shields.io/badge/-sandragodinhosilva-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sandragodinhosilva/)](https://www.linkedin.com/in/sandragodinhosilva/) 
-[![Github Badge](https://img.shields.io/badge/-sandragodinhosilva-grey?style=flat&logo=github&logoColor=white&link=https://github.com/sandragodinhosilva/)](https://www.github.com/sandragodinhosilva/) 
-![Profile views](https://gpvc.arturio.dev/sandragodinhosilva)  
 
 - PhD student in Biotechnology and Biosciences at IST@Ulisboa 🔭
 - Proud woman in tech  :woman::computer:
