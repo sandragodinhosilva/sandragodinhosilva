@@ -3,7 +3,7 @@
 - PhD student in Biotechnology and Biosciences at IST@Ulisboa 🔭
 - Proud woman in tech  :woman::computer:
 - Science enthusiast  :page_with_curl:
-- Trying to learn a little bit more every day! :smiley:
+- Certified [Carpentries](https://carpentries.org/) instructor :mortar_board:
 - Discover a little more about me: [My personal page](https://sandragodinhosilva.netlify.app/)
 
 
