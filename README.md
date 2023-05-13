@@ -1,8 +1,8 @@
 ## Hi, I'm Sandra👋
 
+- Statistical Programmer
 - PhD student in Biotechnology and Biosciences at IST@Ulisboa 🔭
-- Proud woman in tech  :woman::computer:
-- Science enthusiast  :page_with_curl:
+- Proud woman in tech & science enthusiast  :woman::computer::page_with_curl:
 - Certified [Carpentries](https://carpentries.org/) instructor :mortar_board:
 - Discover a little more about me: [My personal page](https://sandragodinhosilva.netlify.app/)
 
