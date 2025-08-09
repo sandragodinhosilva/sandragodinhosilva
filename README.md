@@ -1,6 +1,6 @@
 ## Hi, I'm Sandra👋
 
-- Statistical Programmer
+- Data Scientist
 - PhD in Biotechnology and Biosciences 🔭
 - Proud woman in tech & science enthusiast  :woman::computer::page_with_curl:
 - Certified [Carpentries](https://carpentries.org/) instructor :mortar_board:
